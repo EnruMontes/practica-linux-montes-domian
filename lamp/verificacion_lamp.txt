@@ -1,0 +1,22 @@
+========== VERIFICACIÓN SERVIDOR LAMP MONTES-DOMIAN ==========
+=== VERSIONES INSTALADAS ===
+Server version: Apache/2.4.52 (Ubuntu)
+mysql  Ver 8.0.44-0ubuntu0.22.04.1 for Linux on x86_64 ((Ubuntu))
+PHP 8.1.2-1ubuntu2.22 (cli) (built: Jul 15 2025 12:11:22) (NTS)
+
+=== ESTADO DE SERVICIOS ===
+     Active: active (running) since Wed 2025-12-03 18:03:10 UTC; 5min ago
+     Active: active (running) since Wed 2025-12-03 18:03:03 UTC; 5min ago
+
+=== PUERTOS EN ESCUCHA ===
+LISTEN 0      70         127.0.0.1:33060      0.0.0.0:*    users:(("mysqld",pid=11595,fd=21))                                                                                                                                       
+LISTEN 0      151        127.0.0.1:3306       0.0.0.0:*    users:(("mysqld",pid=11595,fd=23))                                                                                                                                       
+LISTEN 0      511                *:80               *:*    users:(("apache2",pid=13075,fd=4),("apache2",pid=13074,fd=4),("apache2",pid=13073,fd=4),("apache2",pid=13072,fd=4),("apache2",pid=13071,fd=4),("apache2",pid=13069,fd=4))
+
+=== ARCHIVOS WEB CREADOS ===
+total 20
+drwxr-xr-x 2 www-data www-data 4096 Dec  3 18:07 .
+drwxr-xr-x 3 root     root     4096 Dec  3 18:02 ..
+-rwxr-xr-x 1 www-data www-data 3226 Dec  3 18:05 index.html
+-rwxr-xr-x 1 www-data www-data   20 Dec  3 18:05 info.php
+-rwxr-xr-x 1 www-data www-data  495 Dec  3 18:07 test_db.php

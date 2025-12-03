@@ -1,0 +1,26 @@
+========== VERIFICACIÓN DE ARCHIVOS MONTES-DOMIAN ==========
+Estructura de directorios creada:
+/mnt/lvm_storage_montes-domian
+/mnt/lvm_storage_montes-domian/lost+found
+/mnt/lvm_storage_montes-domian/proyectos
+/mnt/lvm_storage_montes-domian/proyectos/activos
+/mnt/lvm_storage_montes-domian/proyectos/archivados
+/mnt/lvm_storage_montes-domian/proyectos/respaldos
+/mnt/lvm_storage_montes-domian/temporal
+
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:32 /mnt/lvm_storage_montes-domian/proyectos/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:32 /mnt/lvm_storage_montes-domian/proyectos/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 43 Dec  3 15:31 /mnt/lvm_storage_montes-domian/temporal/documento_05.txt

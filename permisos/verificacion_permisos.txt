@@ -1,0 +1,14 @@
+========== VERIFICACION PERMISOS MONTES-DOMIAN ==========
+Archivos en mi directorio personal:
+total 8
+drwxrwxr-x 2 vagrant vagrant 4096 Dec  3 14:49 .
+drwxr-x--- 5 vagrant vagrant 4096 Dec  3 14:49 ..
+-rw------- 1 vagrant vagrant    0 Dec  3 14:49 privado.txt
+-rw-r--r-- 1 vagrant vagrant    0 Dec  3 14:49 publico.txt
+
+Archivos en directorio colaborativo:
+total 8
+drwxrwx---  2 root equipotrabajo 4096 Dec  3 14:49 .
+drwxrwxrwt 12 root root          4096 Dec  3 14:49 ..
+Información del grupo equipotrabajo:
+equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant

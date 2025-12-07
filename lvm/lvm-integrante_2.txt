@@ -1,0 +1,6 @@
+========== VERIFICACIÓN LVM - MATEO DOMIAN ==========
+=== DISCO MONTADO EN NUEVA PC ===
+/dev/mapper/vg_datos_colab-lv_storage_colab  1.5G   24K  1.4G   1% /mnt/lvm_colab
+
+=== DETALLE DE VOLUMENES ===
+  ACTIVE            '/dev/vg_datos_colab/lv_storage_colab' [1.50 GiB] inherit
